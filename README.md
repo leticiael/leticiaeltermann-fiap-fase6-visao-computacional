@@ -23,6 +23,38 @@ Todo o desenvolvimento, as análises e as conclusões estão **nos notebooks**. 
 | Entregas 1 e 2 | Dataset, rotulação, YOLOv5 customizado (30 e 60 épocas), YOLOv5s padrão (COCO), CNN do zero e comparação | [Notebook principal](LeticiaEltermann_rm568645_pbl_fase6.ipynb) · [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/leticiael/leticiaeltermann-fiap-fase6-visao-computacional/blob/main/LeticiaEltermann_rm568645_pbl_fase6.ipynb) |
 | Ir Além (opção 2) | Transfer learning com MobileNetV2 + fine tuning e segmentação automática para remover o fundo antes da classificação | [Notebook Ir Além](ir_alem/ir_alem_transfer_segmentacao.ipynb) · [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/leticiael/leticiaeltermann-fiap-fase6-visao-computacional/blob/main/ir_alem/ir_alem_transfer_segmentacao.ipynb) |
 
+## Resultados em imagens
+
+| Segmentação automática (Ir Além) | Comparação com e sem segmentação |
+|---|---|
+| ![Original, máscara e recorte](ir_alem/figuras/segmentacao_exemplos.png) | ![Comparação das quatro combinações](ir_alem/figuras/comparacao_final.png) |
+
+## Evidências do processo
+
+Prints de cada etapa, tirados durante a execução real do projeto.
+
+### 1. Organização no Google Drive
+
+| Pastas do projeto | Divisão treino, validação e teste | Imagens de treino |
+|---|---|---|
+| ![Drive: pasta dataset](docs/prints/01_drive_pastas.jpg) | ![Drive: train, val e test](docs/prints/02_drive_train_val_test.jpg) | ![Drive: imagens de treino](docs/prints/02b_drive_imagens_treino.jpg) |
+
+### 2. Rotulação no Make Sense
+
+| 80 imagens carregadas | Classes vaca e trator | Vacas rotuladas |
+|---|---|---|
+| ![Make Sense: 80 imagens](docs/prints/03_makesense_80_imagens.jpg) | ![Make Sense: classes](docs/prints/03b_makesense_classes.jpg) | ![Make Sense: vacas](docs/prints/04_makesense_vaca.jpg) |
+
+| Trator rotulado | Ajuste manual: segundo trator ao fundo | Exportação em formato YOLO |
+|---|---|---|
+| ![Make Sense: trator](docs/prints/05_makesense_trator.jpg) | ![Make Sense: ajuste manual](docs/prints/05b_makesense_ajuste_manual.jpg) | ![Make Sense: exportação YOLO](docs/prints/06_makesense_export_yolo.jpg) |
+
+### 3. Treino no Google Colab conectado ao Drive
+
+| Drive montado no Colab | GPU ativa | Treino concluído | Resultados salvos |
+|---|---|---|---|
+| ![Colab: Drive montado](docs/prints/07_colab_drive_montado.jpg) | ![Colab: GPU](docs/prints/08_colab_gpu.jpg) | ![Colab: treino](docs/prints/09_colab_treino.jpg) | ![Colab: resultados](docs/prints/10_colab_resultados.jpg) |
+
 ## Vídeos de demonstração
 
 | Vídeo | Link |
@@ -47,7 +79,8 @@ Todo o desenvolvimento, as análises e as conclusões estão **nos notebooks**. 
 │   ├── dataset_segmentado/                   imagens recortadas e máscaras
 │   └── figuras/
 └── docs/
-    ├── figuras/                              arquitetura e prints de resultados
+    ├── figuras/                              arquitetura e detecções no teste
+    ├── prints/                               evidências de Drive, Make Sense e Colab
     ├── roteiro_video_entregas.md
     └── roteiro_video_ir_alem.md
 ```
