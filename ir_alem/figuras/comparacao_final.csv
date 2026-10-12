@@ -1,0 +1,5 @@
+modelo,imagens,acc_treino,acc_val,acc_teste,acc_val_teste,logloss_val_teste,tempo_treino_s,inferencia_ms
+CNN do zero,Original,"0,922 ± 0,095","0,708 ± 0,191","0,917 ± 0,144","0,812 ± 0,165","0,846 ± 0,503","51,289 ± 0,322","7,090 ± 0,194"
+MobileNetV2 (transfer + fine tuning),Original,"1,000 ± 0,000","1,000 ± 0,000","1,000 ± 0,000","1,000 ± 0,000","0,002 ± 0,001","24,318 ± 0,566","28,030 ± 0,236"
+CNN do zero,Segmentada,"0,995 ± 0,009","1,000 ± 0,000","1,000 ± 0,000","1,000 ± 0,000","0,008 ± 0,001","51,102 ± 0,383","6,829 ± 0,107"
+MobileNetV2 (transfer + fine tuning),Segmentada,"1,000 ± 0,000","1,000 ± 0,000","1,000 ± 0,000","1,000 ± 0,000","0,001 ± 0,001","23,926 ± 0,657","26,419 ± 1,966"
