@@ -1,0 +1,161 @@
+par,modelo,fold,arquivo,rotulo,prob_classe1,acerto
+vaca × cavalo,CNN do zero,0,cavalo_005.jpg,1,0.0025920686312019825,False
+vaca × cavalo,CNN do zero,0,cavalo_010.jpg,1,0.27324792742729187,False
+vaca × cavalo,CNN do zero,0,cavalo_019.jpg,1,0.00011363105295458809,False
+vaca × cavalo,CNN do zero,0,cavalo_021.jpg,1,0.28925126791000366,False
+vaca × cavalo,CNN do zero,0,cavalo_023.jpg,1,5.038053245698393e-07,False
+vaca × cavalo,CNN do zero,0,cavalo_026.jpg,1,0.9947676062583923,True
+vaca × cavalo,CNN do zero,0,cavalo_029.jpg,1,0.45335716009140015,False
+vaca × cavalo,CNN do zero,0,vaca_002.jpg,0,0.003947872202843428,True
+vaca × cavalo,CNN do zero,0,vaca_004.jpg,0,0.009438790380954742,True
+vaca × cavalo,CNN do zero,0,vaca_014.jpg,0,6.489665247499943e-05,True
+vaca × cavalo,CNN do zero,0,vaca_023.jpg,0,0.1036040335893631,True
+vaca × cavalo,CNN do zero,0,vaca_025.jpg,0,0.9642255306243896,False
+vaca × cavalo,CNN do zero,0,vaca_027.jpg,0,0.013014043681323528,True
+vaca × cavalo,CNN do zero,0,vaca_031.jpg,0,0.16798847913742065,True
+vaca × cavalo,CNN do zero,0,cavalo_037.jpg,1,0.8312403559684753,True
+vaca × cavalo,CNN do zero,0,vaca_037.jpg,0,0.09269959479570389,True
+vaca × cavalo,CNN do zero,1,cavalo_003.jpg,1,0.9999856948852539,True
+vaca × cavalo,CNN do zero,1,cavalo_006.jpg,1,0.9928685426712036,True
+vaca × cavalo,CNN do zero,1,cavalo_012.jpg,1,0.9998248219490051,True
+vaca × cavalo,CNN do zero,1,cavalo_013.jpg,1,0.9894545674324036,True
+vaca × cavalo,CNN do zero,1,cavalo_016.jpg,1,0.3687064051628113,False
+vaca × cavalo,CNN do zero,1,cavalo_022.jpg,1,0.9995905756950378,True
+vaca × cavalo,CNN do zero,1,vaca_007.jpg,0,0.9999681115150452,False
+vaca × cavalo,CNN do zero,1,vaca_009.jpg,0,0.9939559102058411,False
+vaca × cavalo,CNN do zero,1,vaca_010.jpg,0,0.9462756514549255,False
+vaca × cavalo,CNN do zero,1,vaca_012.jpg,0,0.9979056715965271,False
+vaca × cavalo,CNN do zero,1,vaca_026.jpg,0,0.9983744621276855,False
+vaca × cavalo,CNN do zero,1,vaca_028.jpg,0,0.8443679809570312,False
+vaca × cavalo,CNN do zero,1,cavalo_033.jpg,1,0.9995632171630859,True
+vaca × cavalo,CNN do zero,1,vaca_035.jpg,0,0.9974719882011414,False
+vaca × cavalo,CNN do zero,1,cavalo_038.jpg,1,0.9643888473510742,True
+vaca × cavalo,CNN do zero,1,vaca_040.jpg,0,0.5506843328475952,False
+vaca × cavalo,CNN do zero,2,cavalo_001.jpg,1,0.6293410062789917,True
+vaca × cavalo,CNN do zero,2,cavalo_002.jpg,1,0.20738905668258667,False
+vaca × cavalo,CNN do zero,2,cavalo_017.jpg,1,0.7712768316268921,True
+vaca × cavalo,CNN do zero,2,cavalo_025.jpg,1,0.19432833790779114,False
+vaca × cavalo,CNN do zero,2,cavalo_031.jpg,1,0.05707291141152382,False
+vaca × cavalo,CNN do zero,2,vaca_001.jpg,0,0.0029188243206590414,True
+vaca × cavalo,CNN do zero,2,vaca_006.jpg,0,0.054820552468299866,True
+vaca × cavalo,CNN do zero,2,vaca_013.jpg,0,0.00014427736459765583,True
+vaca × cavalo,CNN do zero,2,vaca_015.jpg,0,0.5493462085723877,False
+vaca × cavalo,CNN do zero,2,vaca_021.jpg,0,0.0027955416589975357,True
+vaca × cavalo,CNN do zero,2,vaca_030.jpg,0,0.7098413705825806,False
+vaca × cavalo,CNN do zero,2,vaca_032.jpg,0,0.04778575897216797,True
+vaca × cavalo,CNN do zero,2,cavalo_034.jpg,1,3.8592473661225313e-10,False
+vaca × cavalo,CNN do zero,2,cavalo_035.jpg,1,0.4010191261768341,False
+vaca × cavalo,CNN do zero,2,cavalo_036.jpg,1,0.9735523462295532,True
+vaca × cavalo,CNN do zero,2,vaca_038.jpg,0,0.023266421630978584,True
+vaca × cavalo,CNN do zero,3,cavalo_004.jpg,1,0.9989768862724304,True
+vaca × cavalo,CNN do zero,3,cavalo_008.jpg,1,0.05472768843173981,False
+vaca × cavalo,CNN do zero,3,cavalo_011.jpg,1,0.9993205666542053,True
+vaca × cavalo,CNN do zero,3,cavalo_014.jpg,1,0.5133154988288879,True
+vaca × cavalo,CNN do zero,3,cavalo_018.jpg,1,0.6971428990364075,True
+vaca × cavalo,CNN do zero,3,cavalo_024.jpg,1,0.0639457255601883,False
+vaca × cavalo,CNN do zero,3,cavalo_027.jpg,1,0.764989972114563,True
+vaca × cavalo,CNN do zero,3,vaca_003.jpg,0,0.9965245723724365,False
+vaca × cavalo,CNN do zero,3,vaca_011.jpg,0,0.9983090162277222,False
+vaca × cavalo,CNN do zero,3,vaca_016.jpg,0,0.8442025184631348,False
+vaca × cavalo,CNN do zero,3,vaca_017.jpg,0,0.016175203025341034,True
+vaca × cavalo,CNN do zero,3,vaca_024.jpg,0,0.035252608358860016,True
+vaca × cavalo,CNN do zero,3,vaca_029.jpg,0,0.6681698560714722,False
+vaca × cavalo,CNN do zero,3,vaca_033.jpg,0,0.12209802120923996,True
+vaca × cavalo,CNN do zero,3,vaca_036.jpg,0,0.9993035793304443,False
+vaca × cavalo,CNN do zero,3,cavalo_039.jpg,1,0.9675858616828918,True
+vaca × cavalo,CNN do zero,4,cavalo_007.jpg,1,0.999360203742981,True
+vaca × cavalo,CNN do zero,4,cavalo_009.jpg,1,0.03655712306499481,False
+vaca × cavalo,CNN do zero,4,cavalo_015.jpg,1,0.6887531876564026,True
+vaca × cavalo,CNN do zero,4,cavalo_020.jpg,1,0.7702921032905579,True
+vaca × cavalo,CNN do zero,4,cavalo_028.jpg,1,0.5140644907951355,True
+vaca × cavalo,CNN do zero,4,cavalo_030.jpg,1,0.4380943775177002,False
+vaca × cavalo,CNN do zero,4,cavalo_032.jpg,1,0.9825066924095154,True
+vaca × cavalo,CNN do zero,4,vaca_005.jpg,0,0.3478959798812866,True
+vaca × cavalo,CNN do zero,4,vaca_008.jpg,0,0.14256161451339722,True
+vaca × cavalo,CNN do zero,4,vaca_018.jpg,0,0.05974702164530754,True
+vaca × cavalo,CNN do zero,4,vaca_019.jpg,0,0.7898896932601929,False
+vaca × cavalo,CNN do zero,4,vaca_020.jpg,0,0.5538737177848816,False
+vaca × cavalo,CNN do zero,4,vaca_022.jpg,0,0.9918094277381897,False
+vaca × cavalo,CNN do zero,4,vaca_034.jpg,0,0.0708262249827385,True
+vaca × cavalo,CNN do zero,4,cavalo_040.jpg,1,0.6225564479827881,True
+vaca × cavalo,CNN do zero,4,vaca_039.jpg,0,0.6512500643730164,False
+vaca × cavalo,MobileNetV2 (transfer + fine tuning),0,cavalo_005.jpg,1,0.13903887569904327,False
+vaca × cavalo,MobileNetV2 (transfer + fine tuning),0,cavalo_010.jpg,1,0.6752611398696899,True
+vaca × cavalo,MobileNetV2 (transfer + fine tuning),0,cavalo_019.jpg,1,0.9543445110321045,True
+vaca × cavalo,MobileNetV2 (transfer + fine tuning),0,cavalo_021.jpg,1,0.3805825710296631,False
+vaca × cavalo,MobileNetV2 (transfer + fine tuning),0,cavalo_023.jpg,1,0.9203824996948242,True
+vaca × cavalo,MobileNetV2 (transfer + fine tuning),0,cavalo_026.jpg,1,0.5150220990180969,True
+vaca × cavalo,MobileNetV2 (transfer + fine tuning),0,cavalo_029.jpg,1,0.8317592740058899,True
+vaca × cavalo,MobileNetV2 (transfer + fine tuning),0,vaca_002.jpg,0,0.8097508549690247,False
+vaca × cavalo,MobileNetV2 (transfer + fine tuning),0,vaca_004.jpg,0,0.3073680102825165,True
+vaca × cavalo,MobileNetV2 (transfer + fine tuning),0,vaca_014.jpg,0,0.19010162353515625,True
+vaca × cavalo,MobileNetV2 (transfer + fine tuning),0,vaca_023.jpg,0,0.07034981995820999,True
+vaca × cavalo,MobileNetV2 (transfer + fine tuning),0,vaca_025.jpg,0,0.05450936406850815,True
+vaca × cavalo,MobileNetV2 (transfer + fine tuning),0,vaca_027.jpg,0,0.16962333023548126,True
+vaca × cavalo,MobileNetV2 (transfer + fine tuning),0,vaca_031.jpg,0,0.11239323019981384,True
+vaca × cavalo,MobileNetV2 (transfer + fine tuning),0,cavalo_037.jpg,1,0.5239389538764954,True
+vaca × cavalo,MobileNetV2 (transfer + fine tuning),0,vaca_037.jpg,0,0.2741812467575073,True
+vaca × cavalo,MobileNetV2 (transfer + fine tuning),1,cavalo_003.jpg,1,0.8157724142074585,True
+vaca × cavalo,MobileNetV2 (transfer + fine tuning),1,cavalo_006.jpg,1,0.6279256343841553,True
+vaca × cavalo,MobileNetV2 (transfer + fine tuning),1,cavalo_012.jpg,1,0.687633216381073,True
+vaca × cavalo,MobileNetV2 (transfer + fine tuning),1,cavalo_013.jpg,1,0.5186430215835571,True
+vaca × cavalo,MobileNetV2 (transfer + fine tuning),1,cavalo_016.jpg,1,0.8928267955780029,True
+vaca × cavalo,MobileNetV2 (transfer + fine tuning),1,cavalo_022.jpg,1,0.939670979976654,True
+vaca × cavalo,MobileNetV2 (transfer + fine tuning),1,vaca_007.jpg,0,0.7376241683959961,False
+vaca × cavalo,MobileNetV2 (transfer + fine tuning),1,vaca_009.jpg,0,0.10893499106168747,True
+vaca × cavalo,MobileNetV2 (transfer + fine tuning),1,vaca_010.jpg,0,0.20320630073547363,True
+vaca × cavalo,MobileNetV2 (transfer + fine tuning),1,vaca_012.jpg,0,0.48531123995780945,True
+vaca × cavalo,MobileNetV2 (transfer + fine tuning),1,vaca_026.jpg,0,0.20422354340553284,True
+vaca × cavalo,MobileNetV2 (transfer + fine tuning),1,vaca_028.jpg,0,0.08988456428050995,True
+vaca × cavalo,MobileNetV2 (transfer + fine tuning),1,cavalo_033.jpg,1,0.8461517691612244,True
+vaca × cavalo,MobileNetV2 (transfer + fine tuning),1,vaca_035.jpg,0,0.19753539562225342,True
+vaca × cavalo,MobileNetV2 (transfer + fine tuning),1,cavalo_038.jpg,1,0.8846104741096497,True
+vaca × cavalo,MobileNetV2 (transfer + fine tuning),1,vaca_040.jpg,0,0.031324274837970734,True
+vaca × cavalo,MobileNetV2 (transfer + fine tuning),2,cavalo_001.jpg,1,0.8850802779197693,True
+vaca × cavalo,MobileNetV2 (transfer + fine tuning),2,cavalo_002.jpg,1,0.949901819229126,True
+vaca × cavalo,MobileNetV2 (transfer + fine tuning),2,cavalo_017.jpg,1,0.5037901401519775,True
+vaca × cavalo,MobileNetV2 (transfer + fine tuning),2,cavalo_025.jpg,1,0.941778302192688,True
+vaca × cavalo,MobileNetV2 (transfer + fine tuning),2,cavalo_031.jpg,1,0.8233673572540283,True
+vaca × cavalo,MobileNetV2 (transfer + fine tuning),2,vaca_001.jpg,0,0.1907547563314438,True
+vaca × cavalo,MobileNetV2 (transfer + fine tuning),2,vaca_006.jpg,0,0.060867153108119965,True
+vaca × cavalo,MobileNetV2 (transfer + fine tuning),2,vaca_013.jpg,0,0.28299009799957275,True
+vaca × cavalo,MobileNetV2 (transfer + fine tuning),2,vaca_015.jpg,0,0.06320023536682129,True
+vaca × cavalo,MobileNetV2 (transfer + fine tuning),2,vaca_021.jpg,0,0.016597013920545578,True
+vaca × cavalo,MobileNetV2 (transfer + fine tuning),2,vaca_030.jpg,0,0.9007558822631836,False
+vaca × cavalo,MobileNetV2 (transfer + fine tuning),2,vaca_032.jpg,0,0.13426926732063293,True
+vaca × cavalo,MobileNetV2 (transfer + fine tuning),2,cavalo_034.jpg,1,0.7256284356117249,True
+vaca × cavalo,MobileNetV2 (transfer + fine tuning),2,cavalo_035.jpg,1,0.9650891423225403,True
+vaca × cavalo,MobileNetV2 (transfer + fine tuning),2,cavalo_036.jpg,1,0.8435022234916687,True
+vaca × cavalo,MobileNetV2 (transfer + fine tuning),2,vaca_038.jpg,0,0.11414545029401779,True
+vaca × cavalo,MobileNetV2 (transfer + fine tuning),3,cavalo_004.jpg,1,0.5954641699790955,True
+vaca × cavalo,MobileNetV2 (transfer + fine tuning),3,cavalo_008.jpg,1,0.7727775573730469,True
+vaca × cavalo,MobileNetV2 (transfer + fine tuning),3,cavalo_011.jpg,1,0.9015162587165833,True
+vaca × cavalo,MobileNetV2 (transfer + fine tuning),3,cavalo_014.jpg,1,0.7294773459434509,True
+vaca × cavalo,MobileNetV2 (transfer + fine tuning),3,cavalo_018.jpg,1,0.5763112902641296,True
+vaca × cavalo,MobileNetV2 (transfer + fine tuning),3,cavalo_024.jpg,1,0.7700949311256409,True
+vaca × cavalo,MobileNetV2 (transfer + fine tuning),3,cavalo_027.jpg,1,0.06784744560718536,False
+vaca × cavalo,MobileNetV2 (transfer + fine tuning),3,vaca_003.jpg,0,0.34720665216445923,True
+vaca × cavalo,MobileNetV2 (transfer + fine tuning),3,vaca_011.jpg,0,0.38881078362464905,True
+vaca × cavalo,MobileNetV2 (transfer + fine tuning),3,vaca_016.jpg,0,0.2119792252779007,True
+vaca × cavalo,MobileNetV2 (transfer + fine tuning),3,vaca_017.jpg,0,0.13434235751628876,True
+vaca × cavalo,MobileNetV2 (transfer + fine tuning),3,vaca_024.jpg,0,0.07528255134820938,True
+vaca × cavalo,MobileNetV2 (transfer + fine tuning),3,vaca_029.jpg,0,0.17770801484584808,True
+vaca × cavalo,MobileNetV2 (transfer + fine tuning),3,vaca_033.jpg,0,0.0014890336897224188,True
+vaca × cavalo,MobileNetV2 (transfer + fine tuning),3,vaca_036.jpg,0,0.09708023071289062,True
+vaca × cavalo,MobileNetV2 (transfer + fine tuning),3,cavalo_039.jpg,1,0.8752405643463135,True
+vaca × cavalo,MobileNetV2 (transfer + fine tuning),4,cavalo_007.jpg,1,0.4158792197704315,False
+vaca × cavalo,MobileNetV2 (transfer + fine tuning),4,cavalo_009.jpg,1,0.4096345901489258,False
+vaca × cavalo,MobileNetV2 (transfer + fine tuning),4,cavalo_015.jpg,1,0.9302434921264648,True
+vaca × cavalo,MobileNetV2 (transfer + fine tuning),4,cavalo_020.jpg,1,0.7854079604148865,True
+vaca × cavalo,MobileNetV2 (transfer + fine tuning),4,cavalo_028.jpg,1,0.6410181522369385,True
+vaca × cavalo,MobileNetV2 (transfer + fine tuning),4,cavalo_030.jpg,1,0.9723619222640991,True
+vaca × cavalo,MobileNetV2 (transfer + fine tuning),4,cavalo_032.jpg,1,0.801512598991394,True
+vaca × cavalo,MobileNetV2 (transfer + fine tuning),4,vaca_005.jpg,0,0.14002618193626404,True
+vaca × cavalo,MobileNetV2 (transfer + fine tuning),4,vaca_008.jpg,0,0.025114182382822037,True
+vaca × cavalo,MobileNetV2 (transfer + fine tuning),4,vaca_018.jpg,0,0.24583382904529572,True
+vaca × cavalo,MobileNetV2 (transfer + fine tuning),4,vaca_019.jpg,0,0.043280184268951416,True
+vaca × cavalo,MobileNetV2 (transfer + fine tuning),4,vaca_020.jpg,0,0.022660890594124794,True
+vaca × cavalo,MobileNetV2 (transfer + fine tuning),4,vaca_022.jpg,0,0.16648997366428375,True
+vaca × cavalo,MobileNetV2 (transfer + fine tuning),4,vaca_034.jpg,0,0.08630596846342087,True
+vaca × cavalo,MobileNetV2 (transfer + fine tuning),4,cavalo_040.jpg,1,0.8168482184410095,True
+vaca × cavalo,MobileNetV2 (transfer + fine tuning),4,vaca_039.jpg,0,0.20460160076618195,True

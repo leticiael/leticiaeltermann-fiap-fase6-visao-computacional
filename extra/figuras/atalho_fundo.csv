@@ -1,0 +1,7 @@
+par,imagens,acertos,n,acurácia,IC95% Wilson,p (acima do acaso),fração do quadro visível
+vaca × trator,Original,80,80,1.0,"[0,95; 1,00]",8.271806125530277e-25,0.99989013671875
+vaca × trator,Só fundo,56,80,0.7,"[0,59; 0,79]",0.0002257586359574054,0.3996726522640306
+vaca × trator,Só a geometria do retângulo,45,80,0.5625,"[0,45; 0,67]",0.15715328993196853,0.0
+vaca × cavalo,Original,73,80,0.9125,"[0,83; 0,96]",2.897550486692915e-15,0.9999890385841836
+vaca × cavalo,Só fundo,57,80,0.7125,"[0,61; 0,80]",9.155828206487555e-05,0.5516337492028062
+vaca × cavalo,Só a geometria do retângulo,56,80,0.7,"[0,59; 0,79]",0.0002257586359574054,0.0

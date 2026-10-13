@@ -22,6 +22,7 @@
 - [Resultados em números](#resultados-em-números)
 - [O que os modelos erraram e por quê](#o-que-os-modelos-erraram-e-por-quê)
 - [Limitações](#limitações)
+- [Extra: desafio vaca × cavalo](#extra-desafio-vaca--cavalo)
 - [Vídeos de demonstração](#vídeos-de-demonstração)
 - [Evidências do processo](#evidências-do-processo)
 - [Estrutura do repositório](#estrutura-do-repositório)
@@ -123,6 +124,29 @@ A segmentação automática (YOLO-World + SAM 2) gerou máscara para 80 de 80 im
 - A segmentação do Ir Além usa modelos pré-treinados grandes e teria de rodar em produção sobre cada imagem nova.
 - Próximo passo: algumas centenas de fotos das câmeras reais do cliente, com rebanhos densos e cenas sem objetos.
 
+## Extra: desafio vaca × cavalo
+
+Vaca e trator são visualmente muito diferentes, então não confundir os dois prova pouco. Para testar essa limitação, repetimos as mesmas abordagens das Entregas 1, 2 e do Ir Além num par difícil e útil para o campo: **vaca × cavalo**, dois animais fotografados no mesmo tipo de pasto. Foram 40 fotos novas de cavalos, com licença aberta e rótulos YOLO, na mesma divisão 32/4/4.
+
+| Abordagem | vaca × trator | vaca × cavalo |
+|---|---|---|
+| YOLO customizado, mAP50 no teste | 0,809 | 0,885 |
+| YOLO customizado e YOLO COCO, acerto por imagem (val+teste) | 100% e 93,8% | 100% e 100% |
+| CNN do zero, validação cruzada (80 imagens) | 83,8% | 55,0% |
+| MobileNetV2 com fine tuning, validação cruzada (80 imagens) | 100% | 90,0% |
+
+- **A dificuldade derruba os classificadores pequenos, não os detectores.** A CNN do zero cai para perto do acaso (teste exato de Fisher, p < 0,001), e o Grad-CAM mostra que ela olha para o céu e a grama. Os dois YOLO seguem sem trocar vaca por cavalo, porque o pré-treino no COCO já separa `cow` de `horse`.
+- **O pré-treino vale mais quando as classes se parecem.** A diferença de erros entre MobileNetV2 e CNN do zero sobe de 0 × 13 para 8 × 36.
+- **O atalho do cenário some, mas o enquadramento continua.** "Só o fundo" ainda acerta cerca de 70%, mas em vaca × cavalo a posição do retângulo explica isso sozinha, porque as fotos de cavalo são enquadradas de outro jeito.
+
+![Mesmos modelos e protocolos nos dois pares](extra/figuras/comparacao_pares.png)
+
+| Grad-CAM da CNN do zero | Atalho do fundo |
+|---|---|
+| ![Grad-CAM vaca × cavalo](extra/figuras/gradcam.png) | ![Atalho do fundo](extra/figuras/atalho_fundo.png) |
+
+Análise completa: [`extra/extra_vaca_cavalo.ipynb`](extra/extra_vaca_cavalo.ipynb) · [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/leticiael/leticiaeltermann-fiap-fase6-visao-computacional/blob/main/extra/extra_vaca_cavalo.ipynb). Créditos das fotos de cavalo em [`extra/dataset_cavalo/CREDITS.md`](extra/dataset_cavalo/CREDITS.md).
+
 ## Vídeos de demonstração
 
 | Vídeo | Link |
@@ -172,6 +196,10 @@ Prints de cada etapa, tirados durante a execução real do projeto.
 │   ├── ir_alem_transfer_segmentacao.ipynb
 │   ├── dataset_segmentado/                   imagens recortadas e máscaras
 │   └── figuras/                              figuras e tabelas geradas pelo notebook
+├── extra/
+│   ├── extra_vaca_cavalo.ipynb               desafio vaca × cavalo
+│   ├── dataset_cavalo/                       40 cavalos, rótulos YOLO e créditos
+│   └── figuras/
 └── docs/
     ├── figuras/                              arquitetura e figuras exportadas do notebook principal
     ├── prints/                               evidências de Drive, Make Sense e Colab

@@ -1,0 +1,9 @@
+par,modelo,conjunto,objetos reais,VP,FN,FP,troca,precisão,revocação,F1
+vaca × trator,YOLO tradicional (COCO),teste,16,11,5,1,0,0.9166666666666666,0.6875,0.7857142857142857
+vaca × trator,YOLO tradicional (COCO),val+teste,36,24,12,1,0,0.96,0.6666666666666666,0.7868852459016393
+vaca × trator,YOLO customizado (e60),teste,16,11,5,1,0,0.9166666666666666,0.6875,0.7857142857142857
+vaca × trator,YOLO customizado (e60),val+teste,36,24,12,6,0,0.8,0.6666666666666666,0.7272727272727273
+vaca × cavalo,YOLO tradicional (COCO),teste,20,15,5,0,0,1.0,0.75,0.8571428571428571
+vaca × cavalo,YOLO tradicional (COCO),val+teste,42,30,12,1,0,0.967741935483871,0.7142857142857143,0.821917808219178
+vaca × cavalo,YOLO customizado (e60),teste,20,14,6,2,0,0.875,0.7,0.7777777777777778
+vaca × cavalo,YOLO customizado (e60),val+teste,42,28,14,9,0,0.7567567567567568,0.6666666666666666,0.7088607594936709

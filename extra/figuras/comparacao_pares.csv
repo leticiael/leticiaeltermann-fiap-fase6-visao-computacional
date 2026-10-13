@@ -1,0 +1,17 @@
+etapa,métrica,vaca × trator,vaca × cavalo,maior é melhor,diferença
+Entrega 1 · detecção (teste),mAP50 do YOLO customizado,0.8088253856942496,0.8852874475148911,True,0.07646206182064152
+Entrega 1 · detecção (teste),mAP50-95 do YOLO customizado,0.5132978851001171,0.5294095195253521,True,0.016111634425235
+Entrega 1 · detecção (teste),mAP50-95 da classe vaca,0.3924839280949709,0.5196641914340266,True,0.12718026333905574
+Entrega 1 · objeto a objeto (val+teste),revocação (troca conta como erro),0.6666666666666666,0.6666666666666666,True,0.0
+Entrega 1 · objeto a objeto (val+teste),trocas de classe (YOLO customizado),0.0,0.0,False,0.0
+Entrega 1 · objeto a objeto (val+teste),trocas de classe (YOLO do COCO),0.0,0.0,False,0.0
+Entrega 2 · por imagem (val+teste),acurácia YOLO tradicional (COCO),0.9375,1.0,True,0.0625
+Entrega 2 · por imagem (val+teste),acurácia YOLO customizado (e60),1.0,1.0,True,0.0
+Entrega 2 · por imagem (val+teste),acurácia CNN do zero (média de 5 sementes),0.95,0.625,True,-0.32499999999999996
+Ir Além · CV 5-fold (80 imagens),acurácia CNN do zero,0.8375,0.55,True,-0.2875
+Ir Além · CV 5-fold (80 imagens),acurácia MobileNetV2 (transfer + fine tuning),1.0,0.9,True,-0.09999999999999998
+Ir Além · CV 5-fold (80 imagens),log-loss CNN do zero,1.2589338347315788,1.8476535081863403,False,0.5887196734547615
+Ir Além · CV 5-fold (80 imagens),log-loss MobileNetV2 (transfer + fine tuning),0.0019099726341664403,0.3556715965270996,False,0.3537616238929332
+Atalho do fundo (5-fold),acurácia com a imagem original,1.0,0.9125,True,-0.08750000000000002
+Atalho do fundo (5-fold),acurácia só com o fundo,0.7,0.7125,True,0.012500000000000067
+Atalho do fundo (5-fold),acurácia só com a geometria do retângulo,0.5625,0.7,True,0.13749999999999996

@@ -1,0 +1,21 @@
+conjunto,par,abordagem,acertos,n,acurácia,IC95% Wilson,acerto vaca,acerto 2ª classe
+val+teste,vaca × cavalo,YOLO tradicional (COCO),16.0,16.0,1.0,"[0,81; 1,00]",1.0,1.0
+val+teste,vaca × cavalo,YOLO customizado (e60),16.0,16.0,1.0,"[0,81; 1,00]",1.0,1.0
+val+teste,vaca × cavalo,CNN do zero (semente 42),10.0,16.0,0.625,"[0,39; 0,82]",0.75,0.5
+val+teste,vaca × cavalo,CNN do zero (média de 5 sementes),10.0,16.0,0.625,"faixa 0,50–0,69",0.75,0.5
+val+teste,vaca × cavalo,referência: sempre vaca,8.0,16.0,0.5,"[0,28; 0,72]",1.0,0.0
+val+teste,vaca × trator,YOLO tradicional (COCO),15.0,16.0,0.9375,"[0,72; 0,99]",1.0,0.875
+val+teste,vaca × trator,YOLO customizado (e60),16.0,16.0,1.0,"[0,81; 1,00]",1.0,1.0
+val+teste,vaca × trator,CNN do zero (semente 42),14.0,16.0,0.875,"[0,64; 0,97]",0.75,1.0
+val+teste,vaca × trator,CNN do zero (média de 5 sementes),15.2,16.0,0.95,"faixa 0,88–1,00",0.9,1.0
+val+teste,vaca × trator,referência: sempre vaca,8.0,16.0,0.5,"[0,28; 0,72]",1.0,0.0
+teste,vaca × cavalo,YOLO tradicional (COCO),8.0,8.0,1.0,"[0,68; 1,00]",1.0,1.0
+teste,vaca × cavalo,YOLO customizado (e60),8.0,8.0,1.0,"[0,68; 1,00]",1.0,1.0
+teste,vaca × cavalo,CNN do zero (semente 42),4.0,8.0,0.5,"[0,22; 0,78]",0.5,0.5
+teste,vaca × cavalo,CNN do zero (média de 5 sementes),4.2,8.0,0.525,"faixa 0,38–0,62",0.55,0.5
+teste,vaca × cavalo,referência: sempre vaca,4.0,8.0,0.5,"[0,22; 0,78]",1.0,0.0
+teste,vaca × trator,YOLO tradicional (COCO),8.0,8.0,1.0,"[0,68; 1,00]",1.0,1.0
+teste,vaca × trator,YOLO customizado (e60),8.0,8.0,1.0,"[0,68; 1,00]",1.0,1.0
+teste,vaca × trator,CNN do zero (semente 42),7.0,8.0,0.875,"[0,53; 0,98]",0.75,1.0
+teste,vaca × trator,CNN do zero (média de 5 sementes),7.8,8.0,0.975,"faixa 0,88–1,00",0.95,1.0
+teste,vaca × trator,referência: sempre vaca,4.0,8.0,0.5,"[0,22; 0,78]",1.0,0.0

@@ -1,0 +1,11 @@
+par,modelo,fold,acertos,n,acc,logloss,tempo_treino_s
+vaca × cavalo,CNN do zero,0,9,16,0.5625,2.3003506660461426,56.0139371000696
+vaca × cavalo,CNN do zero,1,7,16,0.4375,2.541855812072754,56.72070649988018
+vaca × cavalo,CNN do zero,2,9,16,0.5625,1.6265852451324463,59.18897950020619
+vaca × cavalo,CNN do zero,3,9,16,0.5625,1.840254306793213,59.94841620000079
+vaca × cavalo,CNN do zero,4,10,16,0.625,0.929221510887146,60.09841909981333
+vaca × cavalo,MobileNetV2 (transfer + fine tuning),0,13,16,0.8125,0.49672645330429077,27.51509390003048
+vaca × cavalo,MobileNetV2 (transfer + fine tuning),1,15,16,0.9375,0.3177766501903534,28.89734479994513
+vaca × cavalo,MobileNetV2 (transfer + fine tuning),2,15,16,0.9375,0.3065342307090759,27.92569880001247
+vaca × cavalo,MobileNetV2 (transfer + fine tuning),3,15,16,0.9375,0.40689122676849365,27.621241899905726
+vaca × cavalo,MobileNetV2 (transfer + fine tuning),4,14,16,0.875,0.2504294216632843,27.699308600043878

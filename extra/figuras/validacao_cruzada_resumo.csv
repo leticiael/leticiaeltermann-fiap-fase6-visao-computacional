@@ -1,0 +1,5 @@
+par,modelo,acertos,n,acurácia,IC95% Wilson,IC95% Clopper-Pearson,log-loss (média dos folds),dp da acurácia entre folds
+vaca × trator,CNN do zero,67,80,0.8375,"[0,74; 0,90]","[0,74; 0,91]",1.2589338347315788,0.09478594305064438
+vaca × trator,MobileNetV2 (transfer + fine tuning),80,80,1.0,"[0,95; 1,00]","[0,95; 1,00]",0.0019099726341664403,0.0
+vaca × cavalo,CNN do zero,44,80,0.55,"[0,44; 0,65]","[0,43; 0,66]",1.8476535081863403,0.06846531968814576
+vaca × cavalo,MobileNetV2 (transfer + fine tuning),72,80,0.9,"[0,81; 0,95]","[0,81; 0,96]",0.3556715965270996,0.05590169943749474
