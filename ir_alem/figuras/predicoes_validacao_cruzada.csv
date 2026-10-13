@@ -1,0 +1,321 @@
+modelo,imagens,fold,arquivo,rotulo,prob_trator,acerto
+CNN do zero,Original,0,trator_005.jpg,1,1.0,True
+CNN do zero,Original,0,trator_010.jpg,1,1.0754123650258407e-05,False
+CNN do zero,Original,0,trator_019.jpg,1,0.9999934434890747,True
+CNN do zero,Original,0,trator_021.jpg,1,1.0,True
+CNN do zero,Original,0,trator_023.jpg,1,0.00010099502833327278,False
+CNN do zero,Original,0,trator_026.jpg,1,0.9999999403953552,True
+CNN do zero,Original,0,trator_029.jpg,1,0.9989779591560364,True
+CNN do zero,Original,0,vaca_002.jpg,0,0.9999934434890747,False
+CNN do zero,Original,0,vaca_004.jpg,0,0.0016840520547702909,True
+CNN do zero,Original,0,vaca_014.jpg,0,0.0008547050529159606,True
+CNN do zero,Original,0,vaca_023.jpg,0,1.2242331649758853e-05,True
+CNN do zero,Original,0,vaca_025.jpg,0,1.0,False
+CNN do zero,Original,0,vaca_027.jpg,0,0.0015088352374732494,True
+CNN do zero,Original,0,vaca_031.jpg,0,6.136908154985576e-07,True
+CNN do zero,Original,0,trator_037.jpg,1,1.0,True
+CNN do zero,Original,0,vaca_037.jpg,0,0.00033799809170886874,True
+CNN do zero,Original,1,trator_003.jpg,1,0.9999145865440369,True
+CNN do zero,Original,1,trator_006.jpg,1,0.9972001314163208,True
+CNN do zero,Original,1,trator_012.jpg,1,0.9999987483024597,True
+CNN do zero,Original,1,trator_013.jpg,1,0.9731707572937012,True
+CNN do zero,Original,1,trator_016.jpg,1,0.9624689221382141,True
+CNN do zero,Original,1,trator_022.jpg,1,0.9999935626983643,True
+CNN do zero,Original,1,vaca_007.jpg,0,0.48083919286727905,True
+CNN do zero,Original,1,vaca_009.jpg,0,7.886231469456106e-05,True
+CNN do zero,Original,1,vaca_010.jpg,0,0.0066032251343131065,True
+CNN do zero,Original,1,vaca_012.jpg,0,0.7842123508453369,False
+CNN do zero,Original,1,vaca_026.jpg,0,0.0247390978038311,True
+CNN do zero,Original,1,vaca_028.jpg,0,0.15375404059886932,True
+CNN do zero,Original,1,trator_033.jpg,1,0.9999271631240845,True
+CNN do zero,Original,1,vaca_035.jpg,0,0.0097301434725523,True
+CNN do zero,Original,1,trator_038.jpg,1,0.9999566078186035,True
+CNN do zero,Original,1,vaca_040.jpg,0,0.11156691610813141,True
+CNN do zero,Original,2,trator_001.jpg,1,0.9999983906745911,True
+CNN do zero,Original,2,trator_002.jpg,1,0.9879703521728516,True
+CNN do zero,Original,2,trator_017.jpg,1,1.0,True
+CNN do zero,Original,2,trator_025.jpg,1,0.20253916084766388,False
+CNN do zero,Original,2,trator_031.jpg,1,0.9999867081642151,True
+CNN do zero,Original,2,vaca_001.jpg,0,7.370173989329487e-06,True
+CNN do zero,Original,2,vaca_006.jpg,0,0.07061444967985153,True
+CNN do zero,Original,2,vaca_013.jpg,0,9.236667392542586e-05,True
+CNN do zero,Original,2,vaca_015.jpg,0,8.733167487662286e-05,True
+CNN do zero,Original,2,vaca_021.jpg,0,1.5144098597374978e-07,True
+CNN do zero,Original,2,vaca_030.jpg,0,0.03966089338064194,True
+CNN do zero,Original,2,vaca_032.jpg,0,7.420490874210373e-05,True
+CNN do zero,Original,2,trator_034.jpg,1,0.9947038292884827,True
+CNN do zero,Original,2,trator_035.jpg,1,0.9977436065673828,True
+CNN do zero,Original,2,trator_036.jpg,1,0.9999997019767761,True
+CNN do zero,Original,2,vaca_038.jpg,0,0.005227164831012487,True
+CNN do zero,Original,3,trator_004.jpg,1,0.97181636095047,True
+CNN do zero,Original,3,trator_008.jpg,1,0.9999993443489075,True
+CNN do zero,Original,3,trator_011.jpg,1,0.9999995231628418,True
+CNN do zero,Original,3,trator_014.jpg,1,0.6458932161331177,True
+CNN do zero,Original,3,trator_018.jpg,1,0.9998077750205994,True
+CNN do zero,Original,3,trator_024.jpg,1,0.9999964237213135,True
+CNN do zero,Original,3,trator_027.jpg,1,0.9999935626983643,True
+CNN do zero,Original,3,vaca_003.jpg,0,0.00400013430044055,True
+CNN do zero,Original,3,vaca_011.jpg,0,0.9999988079071045,False
+CNN do zero,Original,3,vaca_016.jpg,0,0.9583667516708374,False
+CNN do zero,Original,3,vaca_017.jpg,0,0.013126327656209469,True
+CNN do zero,Original,3,vaca_024.jpg,0,3.553802162059583e-05,True
+CNN do zero,Original,3,vaca_029.jpg,0,0.14163236320018768,True
+CNN do zero,Original,3,vaca_033.jpg,0,0.33178719878196716,True
+CNN do zero,Original,3,vaca_036.jpg,0,0.9999992251396179,False
+CNN do zero,Original,3,trator_039.jpg,1,0.9998335242271423,True
+CNN do zero,Original,4,trator_007.jpg,1,0.9999133348464966,True
+CNN do zero,Original,4,trator_009.jpg,1,0.9468975067138672,True
+CNN do zero,Original,4,trator_015.jpg,1,0.99961918592453,True
+CNN do zero,Original,4,trator_020.jpg,1,0.9967115521430969,True
+CNN do zero,Original,4,trator_028.jpg,1,0.9987876415252686,True
+CNN do zero,Original,4,trator_030.jpg,1,0.9999940991401672,True
+CNN do zero,Original,4,trator_032.jpg,1,0.9999998807907104,True
+CNN do zero,Original,4,vaca_005.jpg,0,1.0132800980500178e-06,True
+CNN do zero,Original,4,vaca_008.jpg,0,0.9438673257827759,False
+CNN do zero,Original,4,vaca_018.jpg,0,1.6462608982692473e-05,True
+CNN do zero,Original,4,vaca_019.jpg,0,0.9842420816421509,False
+CNN do zero,Original,4,vaca_020.jpg,0,0.995520830154419,False
+CNN do zero,Original,4,vaca_022.jpg,0,0.9667321443557739,False
+CNN do zero,Original,4,vaca_034.jpg,0,0.039296966046094894,True
+CNN do zero,Original,4,trator_040.jpg,1,0.9994540214538574,True
+CNN do zero,Original,4,vaca_039.jpg,0,0.0006509991362690926,True
+MobileNetV2 (transfer + fine tuning),Original,0,trator_005.jpg,1,0.9994473457336426,True
+MobileNetV2 (transfer + fine tuning),Original,0,trator_010.jpg,1,0.9991633296012878,True
+MobileNetV2 (transfer + fine tuning),Original,0,trator_019.jpg,1,0.9992281794548035,True
+MobileNetV2 (transfer + fine tuning),Original,0,trator_021.jpg,1,0.9995511770248413,True
+MobileNetV2 (transfer + fine tuning),Original,0,trator_023.jpg,1,0.9995228052139282,True
+MobileNetV2 (transfer + fine tuning),Original,0,trator_026.jpg,1,0.9998581409454346,True
+MobileNetV2 (transfer + fine tuning),Original,0,trator_029.jpg,1,0.9982759952545166,True
+MobileNetV2 (transfer + fine tuning),Original,0,vaca_002.jpg,0,0.001606759149581194,True
+MobileNetV2 (transfer + fine tuning),Original,0,vaca_004.jpg,0,0.0009539970778860152,True
+MobileNetV2 (transfer + fine tuning),Original,0,vaca_014.jpg,0,0.004675719421356916,True
+MobileNetV2 (transfer + fine tuning),Original,0,vaca_023.jpg,0,0.0009252825984731317,True
+MobileNetV2 (transfer + fine tuning),Original,0,vaca_025.jpg,0,0.0010349639924243093,True
+MobileNetV2 (transfer + fine tuning),Original,0,vaca_027.jpg,0,0.0017719304887577891,True
+MobileNetV2 (transfer + fine tuning),Original,0,vaca_031.jpg,0,0.0007817759760655463,True
+MobileNetV2 (transfer + fine tuning),Original,0,trator_037.jpg,1,0.9998548626899719,True
+MobileNetV2 (transfer + fine tuning),Original,0,vaca_037.jpg,0,0.00431504612788558,True
+MobileNetV2 (transfer + fine tuning),Original,1,trator_003.jpg,1,0.9997632503509521,True
+MobileNetV2 (transfer + fine tuning),Original,1,trator_006.jpg,1,0.9997913241386414,True
+MobileNetV2 (transfer + fine tuning),Original,1,trator_012.jpg,1,0.9993548393249512,True
+MobileNetV2 (transfer + fine tuning),Original,1,trator_013.jpg,1,0.9983617067337036,True
+MobileNetV2 (transfer + fine tuning),Original,1,trator_016.jpg,1,0.999561607837677,True
+MobileNetV2 (transfer + fine tuning),Original,1,trator_022.jpg,1,0.9994280934333801,True
+MobileNetV2 (transfer + fine tuning),Original,1,vaca_007.jpg,0,7.024442311376333e-05,True
+MobileNetV2 (transfer + fine tuning),Original,1,vaca_009.jpg,0,4.4224467274034396e-05,True
+MobileNetV2 (transfer + fine tuning),Original,1,vaca_010.jpg,0,0.005802355706691742,True
+MobileNetV2 (transfer + fine tuning),Original,1,vaca_012.jpg,0,0.0022924754302948713,True
+MobileNetV2 (transfer + fine tuning),Original,1,vaca_026.jpg,0,0.0001762100146152079,True
+MobileNetV2 (transfer + fine tuning),Original,1,vaca_028.jpg,0,0.0008779996423982084,True
+MobileNetV2 (transfer + fine tuning),Original,1,trator_033.jpg,1,0.9981313943862915,True
+MobileNetV2 (transfer + fine tuning),Original,1,vaca_035.jpg,0,0.0034734057262539864,True
+MobileNetV2 (transfer + fine tuning),Original,1,trator_038.jpg,1,0.9999138712882996,True
+MobileNetV2 (transfer + fine tuning),Original,1,vaca_040.jpg,0,3.0983381293481216e-05,True
+MobileNetV2 (transfer + fine tuning),Original,2,trator_001.jpg,1,0.9996223449707031,True
+MobileNetV2 (transfer + fine tuning),Original,2,trator_002.jpg,1,0.9993386268615723,True
+MobileNetV2 (transfer + fine tuning),Original,2,trator_017.jpg,1,0.9998418688774109,True
+MobileNetV2 (transfer + fine tuning),Original,2,trator_025.jpg,1,0.9948592782020569,True
+MobileNetV2 (transfer + fine tuning),Original,2,trator_031.jpg,1,0.9982627630233765,True
+MobileNetV2 (transfer + fine tuning),Original,2,vaca_001.jpg,0,0.000663291837554425,True
+MobileNetV2 (transfer + fine tuning),Original,2,vaca_006.jpg,0,0.00029341672779992223,True
+MobileNetV2 (transfer + fine tuning),Original,2,vaca_013.jpg,0,0.0013233210192993283,True
+MobileNetV2 (transfer + fine tuning),Original,2,vaca_015.jpg,0,9.709558798931539e-05,True
+MobileNetV2 (transfer + fine tuning),Original,2,vaca_021.jpg,0,0.0003096149885095656,True
+MobileNetV2 (transfer + fine tuning),Original,2,vaca_030.jpg,0,0.0023247681092470884,True
+MobileNetV2 (transfer + fine tuning),Original,2,vaca_032.jpg,0,0.002244317904114723,True
+MobileNetV2 (transfer + fine tuning),Original,2,trator_034.jpg,1,0.9988523125648499,True
+MobileNetV2 (transfer + fine tuning),Original,2,trator_035.jpg,1,0.9988722801208496,True
+MobileNetV2 (transfer + fine tuning),Original,2,trator_036.jpg,1,0.9994428157806396,True
+MobileNetV2 (transfer + fine tuning),Original,2,vaca_038.jpg,0,0.0009101696196012199,True
+MobileNetV2 (transfer + fine tuning),Original,3,trator_004.jpg,1,0.9997383952140808,True
+MobileNetV2 (transfer + fine tuning),Original,3,trator_008.jpg,1,0.9997546672821045,True
+MobileNetV2 (transfer + fine tuning),Original,3,trator_011.jpg,1,0.9999324679374695,True
+MobileNetV2 (transfer + fine tuning),Original,3,trator_014.jpg,1,0.9966064095497131,True
+MobileNetV2 (transfer + fine tuning),Original,3,trator_018.jpg,1,0.9563255310058594,True
+MobileNetV2 (transfer + fine tuning),Original,3,trator_024.jpg,1,0.9997539520263672,True
+MobileNetV2 (transfer + fine tuning),Original,3,trator_027.jpg,1,0.999401330947876,True
+MobileNetV2 (transfer + fine tuning),Original,3,vaca_003.jpg,0,0.00011275373981334269,True
+MobileNetV2 (transfer + fine tuning),Original,3,vaca_011.jpg,0,0.015308813191950321,True
+MobileNetV2 (transfer + fine tuning),Original,3,vaca_016.jpg,0,0.0032840422354638577,True
+MobileNetV2 (transfer + fine tuning),Original,3,vaca_017.jpg,0,0.0006611302378587425,True
+MobileNetV2 (transfer + fine tuning),Original,3,vaca_024.jpg,0,0.00013338529970496893,True
+MobileNetV2 (transfer + fine tuning),Original,3,vaca_029.jpg,0,0.0009669970022514462,True
+MobileNetV2 (transfer + fine tuning),Original,3,vaca_033.jpg,0,0.00016003346536308527,True
+MobileNetV2 (transfer + fine tuning),Original,3,vaca_036.jpg,0,0.006002782378345728,True
+MobileNetV2 (transfer + fine tuning),Original,3,trator_039.jpg,1,0.9990230798721313,True
+MobileNetV2 (transfer + fine tuning),Original,4,trator_007.jpg,1,0.9998336434364319,True
+MobileNetV2 (transfer + fine tuning),Original,4,trator_009.jpg,1,0.9966527223587036,True
+MobileNetV2 (transfer + fine tuning),Original,4,trator_015.jpg,1,0.9993224143981934,True
+MobileNetV2 (transfer + fine tuning),Original,4,trator_020.jpg,1,0.999803900718689,True
+MobileNetV2 (transfer + fine tuning),Original,4,trator_028.jpg,1,0.9971262216567993,True
+MobileNetV2 (transfer + fine tuning),Original,4,trator_030.jpg,1,0.9981510639190674,True
+MobileNetV2 (transfer + fine tuning),Original,4,trator_032.jpg,1,0.9996680021286011,True
+MobileNetV2 (transfer + fine tuning),Original,4,vaca_005.jpg,0,0.00030412833439186215,True
+MobileNetV2 (transfer + fine tuning),Original,4,vaca_008.jpg,0,0.0003029370272997767,True
+MobileNetV2 (transfer + fine tuning),Original,4,vaca_018.jpg,0,0.0005419823573902249,True
+MobileNetV2 (transfer + fine tuning),Original,4,vaca_019.jpg,0,0.0004746282647829503,True
+MobileNetV2 (transfer + fine tuning),Original,4,vaca_020.jpg,0,0.0004698031407315284,True
+MobileNetV2 (transfer + fine tuning),Original,4,vaca_022.jpg,0,0.0031762830913066864,True
+MobileNetV2 (transfer + fine tuning),Original,4,vaca_034.jpg,0,0.0014251513639464974,True
+MobileNetV2 (transfer + fine tuning),Original,4,trator_040.jpg,1,0.9997578859329224,True
+MobileNetV2 (transfer + fine tuning),Original,4,vaca_039.jpg,0,0.00039521316648460925,True
+CNN do zero,Segmentada,0,trator_005.jpg,1,0.9999997615814209,True
+CNN do zero,Segmentada,0,trator_010.jpg,1,0.9245078563690186,True
+CNN do zero,Segmentada,0,trator_019.jpg,1,1.0,True
+CNN do zero,Segmentada,0,trator_021.jpg,1,0.9999998807907104,True
+CNN do zero,Segmentada,0,trator_023.jpg,1,0.6952726244926453,True
+CNN do zero,Segmentada,0,trator_026.jpg,1,1.0,True
+CNN do zero,Segmentada,0,trator_029.jpg,1,0.8073204159736633,True
+CNN do zero,Segmentada,0,vaca_002.jpg,0,0.4299892783164978,True
+CNN do zero,Segmentada,0,vaca_004.jpg,0,0.5823817849159241,False
+CNN do zero,Segmentada,0,vaca_014.jpg,0,0.005238381680101156,True
+CNN do zero,Segmentada,0,vaca_023.jpg,0,0.0014716252917423844,True
+CNN do zero,Segmentada,0,vaca_025.jpg,0,0.008984974585473537,True
+CNN do zero,Segmentada,0,vaca_027.jpg,0,0.1936074197292328,True
+CNN do zero,Segmentada,0,vaca_031.jpg,0,0.0002760823117569089,True
+CNN do zero,Segmentada,0,trator_037.jpg,1,1.0,True
+CNN do zero,Segmentada,0,vaca_037.jpg,0,0.0006552739650942385,True
+CNN do zero,Segmentada,1,trator_003.jpg,1,1.0,True
+CNN do zero,Segmentada,1,trator_006.jpg,1,0.999988853931427,True
+CNN do zero,Segmentada,1,trator_012.jpg,1,1.0,True
+CNN do zero,Segmentada,1,trator_013.jpg,1,0.9607996940612793,True
+CNN do zero,Segmentada,1,trator_016.jpg,1,0.9999333024024963,True
+CNN do zero,Segmentada,1,trator_022.jpg,1,0.9999755024909973,True
+CNN do zero,Segmentada,1,vaca_007.jpg,0,0.1484350860118866,True
+CNN do zero,Segmentada,1,vaca_009.jpg,0,0.0036599382292479277,True
+CNN do zero,Segmentada,1,vaca_010.jpg,0,0.02785138599574566,True
+CNN do zero,Segmentada,1,vaca_012.jpg,0,0.35870638489723206,True
+CNN do zero,Segmentada,1,vaca_026.jpg,0,0.125735342502594,True
+CNN do zero,Segmentada,1,vaca_028.jpg,0,0.2754635512828827,True
+CNN do zero,Segmentada,1,trator_033.jpg,1,1.0,True
+CNN do zero,Segmentada,1,vaca_035.jpg,0,0.06309062242507935,True
+CNN do zero,Segmentada,1,trator_038.jpg,1,1.0,True
+CNN do zero,Segmentada,1,vaca_040.jpg,0,0.6548618078231812,False
+CNN do zero,Segmentada,2,trator_001.jpg,1,0.9999992251396179,True
+CNN do zero,Segmentada,2,trator_002.jpg,1,0.9999823570251465,True
+CNN do zero,Segmentada,2,trator_017.jpg,1,1.0,True
+CNN do zero,Segmentada,2,trator_025.jpg,1,0.9221066832542419,True
+CNN do zero,Segmentada,2,trator_031.jpg,1,0.9965795278549194,True
+CNN do zero,Segmentada,2,vaca_001.jpg,0,0.0003263177932240069,True
+CNN do zero,Segmentada,2,vaca_006.jpg,0,0.0002876345533877611,True
+CNN do zero,Segmentada,2,vaca_013.jpg,0,0.0628586933016777,True
+CNN do zero,Segmentada,2,vaca_015.jpg,0,0.0017759157344698906,True
+CNN do zero,Segmentada,2,vaca_021.jpg,0,0.0033774611074477434,True
+CNN do zero,Segmentada,2,vaca_030.jpg,0,0.14033065736293793,True
+CNN do zero,Segmentada,2,vaca_032.jpg,0,0.00613206485286355,True
+CNN do zero,Segmentada,2,trator_034.jpg,1,0.999862015247345,True
+CNN do zero,Segmentada,2,trator_035.jpg,1,0.9988059997558594,True
+CNN do zero,Segmentada,2,trator_036.jpg,1,1.0,True
+CNN do zero,Segmentada,2,vaca_038.jpg,0,0.058966051787137985,True
+CNN do zero,Segmentada,3,trator_004.jpg,1,1.0,True
+CNN do zero,Segmentada,3,trator_008.jpg,1,1.0,True
+CNN do zero,Segmentada,3,trator_011.jpg,1,1.0,True
+CNN do zero,Segmentada,3,trator_014.jpg,1,0.9995529055595398,True
+CNN do zero,Segmentada,3,trator_018.jpg,1,0.99965900182724,True
+CNN do zero,Segmentada,3,trator_024.jpg,1,0.9997915625572205,True
+CNN do zero,Segmentada,3,trator_027.jpg,1,0.9999647736549377,True
+CNN do zero,Segmentada,3,vaca_003.jpg,0,0.21386274695396423,True
+CNN do zero,Segmentada,3,vaca_011.jpg,0,0.12433596700429916,True
+CNN do zero,Segmentada,3,vaca_016.jpg,0,0.739836573600769,False
+CNN do zero,Segmentada,3,vaca_017.jpg,0,0.04451246187090874,True
+CNN do zero,Segmentada,3,vaca_024.jpg,0,0.05664721503853798,True
+CNN do zero,Segmentada,3,vaca_029.jpg,0,0.21816842257976532,True
+CNN do zero,Segmentada,3,vaca_033.jpg,0,0.002361940685659647,True
+CNN do zero,Segmentada,3,vaca_036.jpg,0,0.2197030782699585,True
+CNN do zero,Segmentada,3,trator_039.jpg,1,0.9999991059303284,True
+CNN do zero,Segmentada,4,trator_007.jpg,1,0.9999983310699463,True
+CNN do zero,Segmentada,4,trator_009.jpg,1,0.9999818205833435,True
+CNN do zero,Segmentada,4,trator_015.jpg,1,0.9999998807907104,True
+CNN do zero,Segmentada,4,trator_020.jpg,1,1.0,True
+CNN do zero,Segmentada,4,trator_028.jpg,1,0.9999994039535522,True
+CNN do zero,Segmentada,4,trator_030.jpg,1,0.9999935030937195,True
+CNN do zero,Segmentada,4,trator_032.jpg,1,1.0,True
+CNN do zero,Segmentada,4,vaca_005.jpg,0,0.11293582618236542,True
+CNN do zero,Segmentada,4,vaca_008.jpg,0,0.027176713570952415,True
+CNN do zero,Segmentada,4,vaca_018.jpg,0,0.08904436975717545,True
+CNN do zero,Segmentada,4,vaca_019.jpg,0,0.0035764756612479687,True
+CNN do zero,Segmentada,4,vaca_020.jpg,0,0.0004598533851094544,True
+CNN do zero,Segmentada,4,vaca_022.jpg,0,0.18606813251972198,True
+CNN do zero,Segmentada,4,vaca_034.jpg,0,0.9424337148666382,False
+CNN do zero,Segmentada,4,trator_040.jpg,1,0.9999999403953552,True
+CNN do zero,Segmentada,4,vaca_039.jpg,0,0.0015140169998630881,True
+MobileNetV2 (transfer + fine tuning),Segmentada,0,trator_005.jpg,1,0.9981716275215149,True
+MobileNetV2 (transfer + fine tuning),Segmentada,0,trator_010.jpg,1,0.9991958737373352,True
+MobileNetV2 (transfer + fine tuning),Segmentada,0,trator_019.jpg,1,0.999447226524353,True
+MobileNetV2 (transfer + fine tuning),Segmentada,0,trator_021.jpg,1,0.9994774460792542,True
+MobileNetV2 (transfer + fine tuning),Segmentada,0,trator_023.jpg,1,0.9994439482688904,True
+MobileNetV2 (transfer + fine tuning),Segmentada,0,trator_026.jpg,1,0.9998677372932434,True
+MobileNetV2 (transfer + fine tuning),Segmentada,0,trator_029.jpg,1,0.9985954761505127,True
+MobileNetV2 (transfer + fine tuning),Segmentada,0,vaca_002.jpg,0,0.019172413274645805,True
+MobileNetV2 (transfer + fine tuning),Segmentada,0,vaca_004.jpg,0,0.002008601790294051,True
+MobileNetV2 (transfer + fine tuning),Segmentada,0,vaca_014.jpg,0,0.0006285193958319724,True
+MobileNetV2 (transfer + fine tuning),Segmentada,0,vaca_023.jpg,0,0.000142509990837425,True
+MobileNetV2 (transfer + fine tuning),Segmentada,0,vaca_025.jpg,0,0.0012202601647004485,True
+MobileNetV2 (transfer + fine tuning),Segmentada,0,vaca_027.jpg,0,0.00044779825839214027,True
+MobileNetV2 (transfer + fine tuning),Segmentada,0,vaca_031.jpg,0,0.0008039866224862635,True
+MobileNetV2 (transfer + fine tuning),Segmentada,0,trator_037.jpg,1,0.9998581409454346,True
+MobileNetV2 (transfer + fine tuning),Segmentada,0,vaca_037.jpg,0,0.012449380941689014,True
+MobileNetV2 (transfer + fine tuning),Segmentada,1,trator_003.jpg,1,0.9999145865440369,True
+MobileNetV2 (transfer + fine tuning),Segmentada,1,trator_006.jpg,1,0.9989966750144958,True
+MobileNetV2 (transfer + fine tuning),Segmentada,1,trator_012.jpg,1,0.999744713306427,True
+MobileNetV2 (transfer + fine tuning),Segmentada,1,trator_013.jpg,1,0.9991227388381958,True
+MobileNetV2 (transfer + fine tuning),Segmentada,1,trator_016.jpg,1,0.9995357394218445,True
+MobileNetV2 (transfer + fine tuning),Segmentada,1,trator_022.jpg,1,0.9998708963394165,True
+MobileNetV2 (transfer + fine tuning),Segmentada,1,vaca_007.jpg,0,0.0012062275782227516,True
+MobileNetV2 (transfer + fine tuning),Segmentada,1,vaca_009.jpg,0,6.528093763336074e-06,True
+MobileNetV2 (transfer + fine tuning),Segmentada,1,vaca_010.jpg,0,0.00521477684378624,True
+MobileNetV2 (transfer + fine tuning),Segmentada,1,vaca_012.jpg,0,0.0005805669352412224,True
+MobileNetV2 (transfer + fine tuning),Segmentada,1,vaca_026.jpg,0,0.0004448869149200618,True
+MobileNetV2 (transfer + fine tuning),Segmentada,1,vaca_028.jpg,0,0.00013029346882831305,True
+MobileNetV2 (transfer + fine tuning),Segmentada,1,trator_033.jpg,1,0.9996510148048401,True
+MobileNetV2 (transfer + fine tuning),Segmentada,1,vaca_035.jpg,0,8.386107947444543e-05,True
+MobileNetV2 (transfer + fine tuning),Segmentada,1,trator_038.jpg,1,0.999691367149353,True
+MobileNetV2 (transfer + fine tuning),Segmentada,1,vaca_040.jpg,0,3.217969060642645e-05,True
+MobileNetV2 (transfer + fine tuning),Segmentada,2,trator_001.jpg,1,0.9993308782577515,True
+MobileNetV2 (transfer + fine tuning),Segmentada,2,trator_002.jpg,1,0.9987514615058899,True
+MobileNetV2 (transfer + fine tuning),Segmentada,2,trator_017.jpg,1,0.9995288252830505,True
+MobileNetV2 (transfer + fine tuning),Segmentada,2,trator_025.jpg,1,0.9958344101905823,True
+MobileNetV2 (transfer + fine tuning),Segmentada,2,trator_031.jpg,1,0.9809736013412476,True
+MobileNetV2 (transfer + fine tuning),Segmentada,2,vaca_001.jpg,0,0.001443142769858241,True
+MobileNetV2 (transfer + fine tuning),Segmentada,2,vaca_006.jpg,0,0.00019639656238723546,True
+MobileNetV2 (transfer + fine tuning),Segmentada,2,vaca_013.jpg,0,0.0007307715713977814,True
+MobileNetV2 (transfer + fine tuning),Segmentada,2,vaca_015.jpg,0,0.0001656897075008601,True
+MobileNetV2 (transfer + fine tuning),Segmentada,2,vaca_021.jpg,0,2.8148480851086788e-05,True
+MobileNetV2 (transfer + fine tuning),Segmentada,2,vaca_030.jpg,0,6.800537084927782e-05,True
+MobileNetV2 (transfer + fine tuning),Segmentada,2,vaca_032.jpg,0,0.0010892049176618457,True
+MobileNetV2 (transfer + fine tuning),Segmentada,2,trator_034.jpg,1,0.9997610449790955,True
+MobileNetV2 (transfer + fine tuning),Segmentada,2,trator_035.jpg,1,0.9991032481193542,True
+MobileNetV2 (transfer + fine tuning),Segmentada,2,trator_036.jpg,1,0.999201238155365,True
+MobileNetV2 (transfer + fine tuning),Segmentada,2,vaca_038.jpg,0,0.0008372047450393438,True
+MobileNetV2 (transfer + fine tuning),Segmentada,3,trator_004.jpg,1,0.9993603825569153,True
+MobileNetV2 (transfer + fine tuning),Segmentada,3,trator_008.jpg,1,0.9997797012329102,True
+MobileNetV2 (transfer + fine tuning),Segmentada,3,trator_011.jpg,1,0.9999522566795349,True
+MobileNetV2 (transfer + fine tuning),Segmentada,3,trator_014.jpg,1,0.9994556903839111,True
+MobileNetV2 (transfer + fine tuning),Segmentada,3,trator_018.jpg,1,0.9994218945503235,True
+MobileNetV2 (transfer + fine tuning),Segmentada,3,trator_024.jpg,1,0.9998564124107361,True
+MobileNetV2 (transfer + fine tuning),Segmentada,3,trator_027.jpg,1,0.9999029040336609,True
+MobileNetV2 (transfer + fine tuning),Segmentada,3,vaca_003.jpg,0,0.00012991225230507553,True
+MobileNetV2 (transfer + fine tuning),Segmentada,3,vaca_011.jpg,0,0.0047538611106574535,True
+MobileNetV2 (transfer + fine tuning),Segmentada,3,vaca_016.jpg,0,0.0009087910293601453,True
+MobileNetV2 (transfer + fine tuning),Segmentada,3,vaca_017.jpg,0,1.9113105736323632e-05,True
+MobileNetV2 (transfer + fine tuning),Segmentada,3,vaca_024.jpg,0,0.0005995816318318248,True
+MobileNetV2 (transfer + fine tuning),Segmentada,3,vaca_029.jpg,0,0.000493670639116317,True
+MobileNetV2 (transfer + fine tuning),Segmentada,3,vaca_033.jpg,0,0.00013508668052963912,True
+MobileNetV2 (transfer + fine tuning),Segmentada,3,vaca_036.jpg,0,0.0006328134913928807,True
+MobileNetV2 (transfer + fine tuning),Segmentada,3,trator_039.jpg,1,0.999701201915741,True
+MobileNetV2 (transfer + fine tuning),Segmentada,4,trator_007.jpg,1,0.9997897148132324,True
+MobileNetV2 (transfer + fine tuning),Segmentada,4,trator_009.jpg,1,0.9991384148597717,True
+MobileNetV2 (transfer + fine tuning),Segmentada,4,trator_015.jpg,1,0.9991885423660278,True
+MobileNetV2 (transfer + fine tuning),Segmentada,4,trator_020.jpg,1,0.9995744228363037,True
+MobileNetV2 (transfer + fine tuning),Segmentada,4,trator_028.jpg,1,0.9969989657402039,True
+MobileNetV2 (transfer + fine tuning),Segmentada,4,trator_030.jpg,1,0.9968289732933044,True
+MobileNetV2 (transfer + fine tuning),Segmentada,4,trator_032.jpg,1,0.9976140260696411,True
+MobileNetV2 (transfer + fine tuning),Segmentada,4,vaca_005.jpg,0,0.00019238442473579198,True
+MobileNetV2 (transfer + fine tuning),Segmentada,4,vaca_008.jpg,0,0.007693775929510593,True
+MobileNetV2 (transfer + fine tuning),Segmentada,4,vaca_018.jpg,0,0.00017782527720555663,True
+MobileNetV2 (transfer + fine tuning),Segmentada,4,vaca_019.jpg,0,0.0010746496263891459,True
+MobileNetV2 (transfer + fine tuning),Segmentada,4,vaca_020.jpg,0,0.0005264298524707556,True
+MobileNetV2 (transfer + fine tuning),Segmentada,4,vaca_022.jpg,0,0.001964205177500844,True
+MobileNetV2 (transfer + fine tuning),Segmentada,4,vaca_034.jpg,0,8.422284736298025e-05,True
+MobileNetV2 (transfer + fine tuning),Segmentada,4,trator_040.jpg,1,0.9994034171104431,True
+MobileNetV2 (transfer + fine tuning),Segmentada,4,vaca_039.jpg,0,5.901317490497604e-05,True

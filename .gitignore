@@ -27,3 +27,8 @@ Thumbs.db
 desktop.ini
 .vscode/
 .idea/
+
+*.mp4
+*.mov
+*.mkv
+videos/
