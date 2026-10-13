@@ -151,8 +151,8 @@ Análise completa: [`extra/extra_vaca_cavalo.ipynb`](extra/extra_vaca_cavalo.ipy
 
 | Vídeo | Link |
 |-------|------|
-| Entregas 1 e 2 (até 5 min) | `<LINK_YOUTUBE_ENTREGAS>` |
-| Ir Além (até 5 min) | `<LINK_YOUTUBE_IR_ALEM>` |
+| Entregas 1 e 2 (até 5 min) | [youtu.be/ChpeXXadZYw](https://youtu.be/ChpeXXadZYw) |
+| Ir Além (até 5 min) | [youtu.be/l661Fa0wxj4](https://youtu.be/l661Fa0wxj4) |
 
 ## Evidências do processo
 
